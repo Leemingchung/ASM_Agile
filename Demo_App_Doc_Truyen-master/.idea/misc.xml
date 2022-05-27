@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Quan_ly_du_an/Demo_App_Doc_Truyen-master/Demo_App_Doc_Truyen-master/app/src/main/res/layout/activity_dang_ky.xml" value="0.25" />
+        <entry key="..\:/Quan_ly_du_an/Demo_App_Doc_Truyen-master/Demo_App_Doc_Truyen-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Quan_ly_du_an/Demo_App_Doc_Truyen-master/Demo_App_Doc_Truyen-master/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.129981884057971" />
+        <entry key="..\:/Quan_ly_du_an/Demo_App_Doc_Truyen-master/Demo_App_Doc_Truyen-master/app/src/main/res/layout/bai_viet.xml" value="0.21829710144927536" />
+        <entry key="..\:/Quan_ly_du_an/Demo_App_Doc_Truyen-master/Demo_App_Doc_Truyen-master/app/src/main/res/layout/fragment_list_bai_viet_.xml" value="0.12158054711246201" />
+        <entry key="..\:/Quan_ly_du_an/Demo_App_Doc_Truyen-master/Demo_App_Doc_Truyen-master/app/src/main/res/layout/tab_bai_viet.xml" value="0.21829710144927536" />
+        <entry key="..\:/Quan_ly_du_an/Demo_App_Doc_Truyen-master/Demo_App_Doc_Truyen-master/app/src/main/res/menu/item_bottom.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
